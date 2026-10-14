@@ -2,7 +2,7 @@
 
 **WEEKS 1–2**
 
-These projects are tiny. The goal is not to learn a lot, but to **prove to yourself you can finish something**. Each should take 15–30 minutes.
+These projects are tiny. The goal is not to learn a lot, but to **prove to yourself you can finish something**. Each should take 15–30 minutes. 
 
 **Before you start:** install Python 3.12+, Git, and a code editor (e.g. VS Code), and create a GitHub account. Learn the basics of `git init`, `add`, `commit`, and `push` — every gate below depends on them.
 
